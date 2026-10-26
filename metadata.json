@@ -1,0 +1,12 @@
+{
+  "name": "MOU AI — Personal Assistant & Bengali Voice Companion",
+  "description": "Next-generation personal AI assistant and Bengali voice companion for Android and Honor X8c, featuring voice interaction, screen vision, task planning, social media studio, persistent memory, and personalized GF mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
